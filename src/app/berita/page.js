@@ -1,6 +1,3 @@
-import BeritaCard from "@/components/beritaCard/BeritaCard";
-import KalenderLiturgi from "@/components/kalenderLiturgi/KalenderLiturgi";
-import KategoriCard from "@/components/kategoriCard/KategoriCard";
 
 export default function Home() {
   return (
