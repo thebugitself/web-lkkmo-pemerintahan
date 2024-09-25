@@ -1,7 +1,4 @@
-import BeritaCard from "@/components/beritaCard/BeritaCard";
-import KalenderLiturgi from "@/components/kalenderLiturgi/KalenderLiturgi";
-import KategoriCard from "@/components/kategoriCard/KategoriCard";
-import ImageSlide from "@/components/imageSlide/ImageSlide";
+'useclient';
 import Image from "next/image";
 
 export default function Home() {
